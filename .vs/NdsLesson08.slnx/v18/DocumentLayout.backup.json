@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\thirdyear\\I\\Laptrinhweb\\Thuchanh\\NdsLesson08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8250320-F4D4-C2DE-A47F-69D3E3C69836}|NdsLesson08\\NdsLesson08.csproj|d:\\study\\thirdyear\\i\\laptrinhweb\\thuchanh\\ndslesson08\\ndslesson08\\controllers\\orderbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8250320-F4D4-C2DE-A47F-69D3E3C69836}|NdsLesson08\\NdsLesson08.csproj|solutionrelative:ndslesson08\\controllers\\orderbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8250320-F4D4-C2DE-A47F-69D3E3C69836}|NdsLesson08\\NdsLesson08.csproj|d:\\study\\thirdyear\\i\\laptrinhweb\\thuchanh\\ndslesson08\\ndslesson08\\models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8250320-F4D4-C2DE-A47F-69D3E3C69836}|NdsLesson08\\NdsLesson08.csproj|solutionrelative:ndslesson08\\models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8250320-F4D4-C2DE-A47F-69D3E3C69836}|NdsLesson08\\NdsLesson08.csproj|d:\\study\\thirdyear\\i\\laptrinhweb\\thuchanh\\ndslesson08\\ndslesson08\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8250320-F4D4-C2DE-A47F-69D3E3C69836}|NdsLesson08\\NdsLesson08.csproj|solutionrelative:ndslesson08\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderBooksController.cs",
+              "DocumentMoniker": "D:\\Study\\thirdyear\\I\\Laptrinhweb\\Thuchanh\\NdsLesson08\\NdsLesson08\\Controllers\\OrderBooksController.cs",
+              "RelativeDocumentMoniker": "NdsLesson08\\Controllers\\OrderBooksController.cs",
+              "ToolTip": "D:\\Study\\thirdyear\\I\\Laptrinhweb\\Thuchanh\\NdsLesson08\\NdsLesson08\\Controllers\\OrderBooksController.cs",
+              "RelativeToolTip": "NdsLesson08\\Controllers\\OrderBooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T04:23:38.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\thirdyear\\I\\Laptrinhweb\\Thuchanh\\NdsLesson08\\NdsLesson08\\Models\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "NdsLesson08\\Models\\BookStoreDbContext.cs",
+              "ToolTip": "D:\\Study\\thirdyear\\I\\Laptrinhweb\\Thuchanh\\NdsLesson08\\NdsLesson08\\Models\\BookStoreDbContext.cs",
+              "RelativeToolTip": "NdsLesson08\\Models\\BookStoreDbContext.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAnwGQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T04:16:59.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderBook.cs",
+              "DocumentMoniker": "D:\\Study\\thirdyear\\I\\Laptrinhweb\\Thuchanh\\NdsLesson08\\NdsLesson08\\Models\\OrderBook.cs",
+              "RelativeDocumentMoniker": "NdsLesson08\\Models\\OrderBook.cs",
+              "ToolTip": "D:\\Study\\thirdyear\\I\\Laptrinhweb\\Thuchanh\\NdsLesson08\\NdsLesson08\\Models\\OrderBook.cs",
+              "RelativeToolTip": "NdsLesson08\\Models\\OrderBook.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T04:14:03.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
